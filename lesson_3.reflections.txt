@@ -13,3 +13,7 @@ forks : are cloned repositorys that have place on the cloud in Github, directly 
 clones : are cloned repositorys that have local place only in the computer, the original one can be either on the cloud or on other computer, furthermore their changes can not affect the original files unless the admin of it says so
 
 branches: a branch is a master version that shows the result product of all the changes, that we may have made on it
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+that we are able to fetch the changes that can be made on the remote, only because it will always remember the last posicion of the origin/master locally, that means it knows exactly which version of the master was pushed up last time to the cloud and it helps to make you able to merge the new fetched origin/master into the locally master
