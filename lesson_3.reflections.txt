@@ -5,3 +5,11 @@ when not only me is working on the files or when i want to have a master branch 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 because i want that in the repository on github only stays the version that is always running and i will only push information when i am 100% sure, it runs on my computer, so that the people how may want to check out my repository are not able to find an error or a bug
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks : are cloned repositorys that have place on the cloud in Github, directly linked from the original one, even though the changes, that can be made on the copy can't have any effect on the original one unless the admin of this repository decides to pull this changes to his master branch
+
+clones : are cloned repositorys that have local place only in the computer, the original one can be either on the cloud or on other computer, furthermore their changes can not affect the original files unless the admin of it says so
+
+branches: a branch is a master version that shows the result product of all the changes, that we may have made on it
