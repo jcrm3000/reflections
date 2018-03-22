@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+when not only me is working on the files or when i want to have a master branch always running
